@@ -1,2 +1,2 @@
-# XAI
-Towards Explainable Artificial Intelligence
+# Towards Explainable Artificial Intelligence
+A Brief Tutorial on Explainable Artifical Intelligence (XAI)
